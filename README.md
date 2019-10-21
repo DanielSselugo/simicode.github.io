@@ -20,3 +20,8 @@
 - [GitHub Calendar Plugin](https://github.com/IonicaBizau/github-calendar)
 - [jQuery RSS](https://github.com/sdepold/jquery-rss)
 - Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
+
+##Getting Started
+Fork the repo or
+use the terminal 
+        # git clone https://github.com/SimiCode/simicode.github.io
