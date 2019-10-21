@@ -21,7 +21,7 @@
 - [jQuery RSS](https://github.com/sdepold/jquery-rss)
 - Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
 
-##Getting Started
-Fork the repo or
+## Getting Started
+Fork the repo and download the folder or
 use the terminal 
         # git clone https://github.com/SimiCode/simicode.github.io
